@@ -35,8 +35,8 @@ body {
 }
 
 .contenedor header .login table tr td input:hover {
-    border: 1px solid #FF9912;
-    background-color: #f7c280;
+    border: 1px solid #1297FF;
+    background-color: #B6D9F5;
 }
 
 .contenedor header .login table tr td button {
